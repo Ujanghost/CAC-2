@@ -1,0 +1,323 @@
+Email(Christ email id):,Name:,Which course do you study ?,Gender,What is your current percentage of attendance in Knowledge Pro ?,"To what extent do you think attending classes regularly has a positive impact on your academic performance?
+- Numeric Value (1 = Strongly Disagree 5 = Strongly Agree)","Have you ever skipped classes? If so, how many classes did you skip in the past semester?(if no write 0)",How would you rate your academic progress in the past semester?,To what extent do you feel that the quality of teaching in your classes affects your attendance and academic progress? Numeric Value (1 = Strongly Disagree 5 = Strongly Agree),"Are there any external factors (e.g., health, family, transportation) that affect your ability to attend classes regularly?","How do you perceive the impact of regular class attendance on your mental health? (Rate 1 = For the worst, 5 = For the best)",Do you believe that mandatory attendance for students is necessary?,What is the ideal minimum attendance percentage(%) that a college should establish?
+manish.kumar@msds.christuniversity.in,MANISH KUMAR,Msc Data Science,Male,95% - 100%,3,0,5.N/A(For first semester students),4,Some,4,No,55%
+kingsuk.rakshit@msds.christuniversity.in,Kingsuk Rakshit,Msc Data Science,Male,95% - 100%,3,3,3-Good,3,Some,3,Yes,65%
+sandeep.kumar@science.christuniversity.in,SANDEEP KUMAR,Msc Data Science,Male,95% - 100%,5,0,4-Excellent,5,Some,5,Yes,85%
+chirag.n@msds.christuniversity.in,Chirag N,Msc Data Science,Male,85% - 89%,3,27,3-Good,3,Some,2,No,65%
+divyank.yadav@msea.christuniversity.in,Divyank Kumar Yadav,Msc EA,Male,95% - 100%,3,2,3-Good,4,None,1,No,75%
+tanisha.agarwal@msds.christuniversity.in,Tanisha Agarwal,Msc Data Science,Female,90% - 94%,2,15,3-Good,5,Some,1,Yes,65%
+arshika.saraswat@msds.christuniversity.in,Arshika Saraswat,Msc Data Science,Female,85% - 89%,1,More than 20,5.N/A(For first semester students),5,Many,1,Yes,75%
+hitanshi.gupta@msds.christuniversity.in,Hitanshi Gupta,Msc Data Science,Female,95% - 100%,2,2,5.N/A(For first semester students),2,Some,2,No,55%
+Ansel.paul@msds.christuniversity.in,Ansel Paul,Msc Data Science,Male,95% - 100%,3,7,2-Fair,5,Some,3,No,75%
+nilanjana.dey@msds.christuniversity.in,Nilanjana Dey,Msc Data Science,Female,95% - 100%,1,8,3-Good,5,Some,1,No,65%
+ritu.shaw@science.christuniversity.in,Ritu Kumari Shaw,Msc EA,Female,95% - 100%,4,0,5.N/A(For first semester students),5,Some,4,,75%
+Jyosna.philip@msds.christuniversity.in,Jyosna philip,Msc Data Science,Female,95% - 100%,2,0,5.N/A(For first semester students),5,Some,2,No,55%
+swastik.roy@msds.christuniversity.in,SWASTIK,Msc Data Science,Male,95% - 100%,5,3,3-Good,1,Some,5,No,75%
+riya.pc@msds.christuniversity.in,Riya PC,Msc Data Science,Female,95% - 100%,4,0,2-Fair,2,Some,5,No,55%
+shruti.mall@msds.christuniversity.in,Shruti Mall,Msc Data Science,Female,95% - 100%,3,8,1-Poor,4,Some,4,No,75%
+vikash.shakya@msds.christuniversity.in,Vikash Shakya,Msc Data Science,Male,95% - 100%,1,7,5.N/A(For first semester students),3,Many,3,Yes,75%
+shubham.kumar@msds.christuniversity.in,Shubham kumar,Msc Data Science,Male,95% - 100%,2,18,3-Good,3,None,3,No,75%
+stuty.das@msds.christuniversity.in,Stuty Das,Msc Data Science,Female,95% - 100%,3,0,1-Poor,3,None,2,Yes,75%
+dipanwita.das@science.christuniversity.in,Dipanwita Das,Msc Data Science,Female,90% - 94%,2,2,5.N/A(For first semester students),3,Some,3,No,65%
+amrutha.paalathara@msds.christuniversity.in,Amrutha Paalathara,Msc Data Science,Female,90% - 94%,3,"Yes,5 classes",5.N/A(For first semester students),3,Some,3,No,75%
+suvadeep.chakraborty@msgfa.christuniversity.in,Suvadeep Chakraborty,MSc GF&A,Male,95% - 100%,5,0,5.N/A(For first semester students),5,Some,5,Yes,75%
+keshav.gupta@science.christuniversity.in,Keshav Gupta,MSc GF&A,Male,95% - 100%,2,3,5.N/A(For first semester students),2,Some,2,No,55%
+v.sravani@msds.christuniversity.in,V.Sravani,Msc Data Science,Female,80% - 84%,3,10,3-Good,3,Many,3,No,85%
+vikas.k@msds.christuniversity.in,Vikas K,Msc Data Science,Male,95% - 100%,3,8 classes,5.N/A(For first semester students),3,Some,3,No,75%
+aadith.mathew@msds.christuniversity.in,Aadith Joseph Mathew,Msc Data Science,Male,95% - 100%,1,0,2-Fair,3,Some,1,No,75%
+aditya.singh@msds.christuniversity.in,Aditya Kumar Singh,Msc Data Science,Male,90% - 94%,3,8,5.N/A(For first semester students),5,Some,1,No,65%
+parul.sharma@msds.christuniversity.in,Parul Sharma,Msc Data Science,Female,95% - 100%,4,6,5.N/A(For first semester students),3,Some,3,Yes,65%
+kangule.sachin@msds.christuniversity.in,Sachin,Msc Data Science,Male,95% - 100%,2,50,4-Excellent,4,Many,4,No,55%
+anand.dubey@msds.christuniversity.in,Anand Kumar Dubey,Msc Data Science,Male,95% - 100%,1,0,1-Poor,1,Some,1,No,45%
+adrija.saha@law.christuniversity.in,Adrija Saha,BA LLB,Female,76% - 79%,4,More than 8,3-Good,4,Some,3,Yes,75%
+naga.suganeswar@law.christuniversity.in,NAGA SUGANESWAR,BBA LLB,Male,95% - 100%,3,"Due to illness, only one day leave",5.N/A(For first semester students),3,Many,3,No,65%
+trikalagga.saha@msds.christuniversity.in,Trikalagga Saha,Msc Data Science,Female,95% - 100%,5,0,3-Good,5,Some,5,Yes,75%
+trikalagga.saha@msds.christuniversity.in,Trikalagga Saha,Msc Data Science,Female,95% - 100%,5,0,5.N/A(For first semester students),5,Many,5,Yes,65%
+shantanu.venkatesh@bbabah.christuniversity.in,Shantanu Ambaty,BBA,Male,95% - 100%,3,No I haven’t 0,5.N/A(For first semester students),5,Some,3,Yes,75%
+ashley.joseph@bcomfan.christuniversity.in,Ashley Joseph,BCOM,Female,95% - 100%,4,0,2-Fair,2,Some,3,No,75%
+lingesh.m@msds.christuniversity.in,LINGESH M,Msc Data Science,Male,95% - 100%,3,0,3-Good,5,Some,3,Yes,75%
+leran.carvalho@msds.christuniversity.in,Leran Carvalho,Msc Data Science,Male,90% - 94%,3,21,1-Poor,5,Some,3,Yes,75%
+sukanna.das@msds.christuniversity.in,Sukanna Das,Msc Data Science,Female,95% - 100%,2,5,3-Good,2,Some,1,No,65%
+ansel.paul@msds.christuniversity.in,ansel paul,Msc Data Science,Male,95% - 100%,4,8,4-Excellent,3,Many,3,No,75%
+gungun.agnihotri@msds.christuniversity.in,Gungun,Msc Data Science,Female,90% - 94%,3,No,5.N/A(For first semester students),3,Some,3,No,65%
+nikhil.pr@msds.christuniversity.in,Nikhil,Msc Data Science,Male,95% - 100%,3,No,3-Good,3,Some,3,Yes,85%
+Jefginshaji.s@msds.christuniversity.in,Jeffin shaji,Msc Data Science,Male,95% - 100%,2,0,2-Fair,3,None,3,Yes,85%
+falak.ansari@msds.christunvirsity,Falak Ansari,Msc Data Science,Female,85% - 89%,1,23,2-Fair,2,Some,3,No,55%
+parul.sharma@msds.christuniversity.in,Parul Sharma,Msc Data Science,Female,95% - 100%,4,4,3-Good,4,Some,3,Yes,65%
+sarnalika.paul@msds.christuniversity.in,SARNALIKA PAUL,Msc Data Science,Female,85% - 89%,3,NO,2-Fair,3,Some,3,Yes,65%
+thamizhanbu.e@msds.christuniversity.in,Thamizhanbu E,Msc Data Science,Male,90% - 94%,4,10,2-Fair,3,Many,4,No,65%
+abin.roy@msds.christuniversity.in,Abin Roy,Msc Data Science,Male,85% - 89%,4,0,3-Good,4,Some,5,Yes,75%
+Yashi.s@msds.christuniversity.in,Yashi,Msc Data Science,Female,85% - 89%,4,0,3-Good,4,None,3,No,75%
+britto.fernandes@msds.christuniversity.in,Britto uzamaki,Msc Data Science,Male,90% - 94%,5,69,5.N/A(For first semester students),5,Some,5,Yes,75%
+Jyosna.philip@msds.christuniversity.in,Jyosna philip,Msc Data Science,Female,90% - 94%,2,20,5.N/A(For first semester students),3,Some,1,No,55%
+britto.fernandes@msds.christuniversity.in,Britto Fernandes,Msc Data Science,Male,85% - 89%,5,12,2-Fair,4,Some,1,Yes,65%
+yashi.s@msds.christuniversity.in,yashi,Msc Data Science,Female,85% - 89%,4,13,3-Good,4,Some,4,Yes,85%
+sudiksha.sharma@msea.christuniversity.in,Sudiksha Sharma,MSC EA,Female,80% - 84%,1,12,5.N/A(For first semester students),3,None,5,No,65%
+dipanwita.das@science.christuniversity.in,Dipanwita Das,Msc Data Science,Female,95% - 100%,2,0,5.N/A(For first semester students),1,Some,2,No,75%
+riya.pc@msds.christuniversity.in,Riya PC,Msc Data Science,Female,80% - 84%,4,6,3-Good,5,Many,5,Yes,65%
+kathryn.philip@law.christuniversity.in,Kathryn Faith Gracia Philip,BA LLB,Female,95% - 100%,5,1,4-Excellent,1,Some,3,No,75%
+arun.m@msds.christuniversity.in,Arun N,Msc Data Science,Male,76% - 79%,3,14,3-Good,1,Some,3,Yes,55%
+fathimathul.ali@science.christuniversity.in,Fathima,Msc Data Science,Female,90% - 94%,1,7,3-Good,5,Some,2,Yes,75%
+aleena.sebastian@msds.christuniversity.in,Aleena Mariya Sebastian,Msc Data Science,Female,90% - 94%,5,20,3-Good,5,Some,5,No,65%
+nandhana.rajeev@msds.christuniversity.in,Nandhana Rajeev,Msc Data Science,Female,95% - 100%,3,14,5.N/A(For first semester students),5,Some,3,No,75%
+falak.ansari@msds.christunvirsity,Falak Ansari,Msc Data Science,Female,95% - 100%,5,0,5.N/A(For first semester students),1,Some,2,Yes,55%
+vikas.k@msds.christuniversity.in,Vikas K,Msc Data Science,Male,80% - 84%,3,13,2-Fair,2,Some,3,Yes,65%
+jofin.siby@msds.christuniversity.in,Jofin James,Msc Data Science,Male,95% - 100%,5,14,3-Good,2,Some,5,No,85%
+anand.kj@msds.christuniversity.in,Anand K J,Msc Data Science,Male,95% - 100%,2,20,5.N/A(For first semester students),3,Many,4,No,65%
+amrutha.paalathara@msds.christuniversity.in,Amrutha Paalathara,Msc Data Science,Female,90% - 94%,2,5,5.N/A(For first semester students),1,None,4,No,75%
+christan.tony@law.christuniversity.in,S.Christan Tony,BBA LLB,Male,95% - 100%,3,6,3-Good,5,None,3,,65%
+aparna.nanda@law.christuniversity.in,Aparna Nanda,BBA LLB,Female,90% - 94%,5,5,2-Fair,2,Some,2,No,75%
+tanmai.karwa@law.christuniversity.in,Tanmai karwa,BBA LLB,Male,85% - 89%,4,17,1-Poor,4,Some,2,No,55%
+soumya.dendukuri@law.christuniversity.in,Soumya Dendukuri,BA LLB,Female,85% - 89%,5,0,5.N/A(For first semester students),3,Some,1,No,75%
+abith.sunil@msds.christuniversity.in,Abith.K.Sunil,Msc Data Science,Male,90% - 94%,2,0,3-Good,4,Some,3,No,65%
+farheen.bano@law.christuniversity.in,Farheen Bano,BA LLB,Female,90% - 94%,2,13,1-Poor,1,Many,3,Yes,75%
+muraliitharann33@gmail.com,murali,BSC EA,Male,85% - 89%,1,6,5.N/A(For first semester students),4,Some,4,No,55%
+raswanth.cb@msds.christuniversity.in,Raswanth CB,Msc Data Science,Male,95% - 100%,5,14,5.N/A(For first semester students),4,Some,3,Yes,75%
+subramanya.patil@msds.christuniversity.in,Subramanya,Msc Data Science,Male,90% - 94%,3,10,5.N/A(For first semester students),2,Some,4,No,55%
+rahil.khan@msds.christuniversity.in,Rahil Khan,Msc Data Science,Male,90% - 94%,5,7,5.N/A(For first semester students),1,None,5,No,75%
+leran.carvalho@msds.christuniversity.in,Leran Carvalho,Msc Data Science,Male,95% - 100%,4,1,3-Good,1,Some,2,Yes,75%
+Ansel.paul@msds.christuniversity.in,Ansel 3,Msc Data Science,Male,95% - 100%,2,NO,5.N/A(For first semester students),2,Many,5,No,75%
+chaitra.hallikeri@law.christuniversity.in,Chaitra,BBA LLB,Female,80% - 84%,2,8,2-Fair,3,Some,3,No,75%
+r.lalrinmawii@msds.christuniversity.in,R Lalrinmawii,Msc Data Science,Female,95% - 100%,2,16,5.N/A(For first semester students),2,Some,5,No,65%
+aditya.singh@msds.christuniversity.in,Aditya Kumar Singh,Msc Data Science,Male,95% - 100%,3,0,5.N/A(For first semester students),5,Some,5,No,75%
+ritu.shaw@science.christuniversity.in,Ritu Kumari Shaw,MSC EA,Female,90% - 94%,3,3,4-Excellent,4,Some,4,No,75%
+jaise.george@msds.christuniversity.in,Jaise George,Msc Data Science,Male,80% - 84%,3,20,1-Poor,2,Some,5,No,55%
+sandeep.kumar@science.christuniversity.in,SANDEEP KUMAR,Msc Data Science,Male,95% - 100%,1,4,3-Good,2,Some,5,Yes,85%
+adharsh.jaison@msds.christuniversity.in,Adharsh jaison,Msc Data Science,Male,80% - 84%,3,4,3-Good,1,Some,3,Yes,75%
+kingsuk.rakshit@msds.christuniversity.in,Kingsuk Rakshit,Msc Data Science,Male,95% - 100%,2,NO,3-Good,2,Some,4,No,75%
+bhaswati.bardhan@msds.christuniversity.in,Bhaswati Bardhan,Msc Data Science,Female,76% - 79%,4,8,5.N/A(For first semester students),1,Many,4,No,65%
+rodda.sathvika@msds.christuniversity.in,R sathvika teja,Msc Data Science,Female,90% - 94%,4,12,5.N/A(For first semester students),3,None,5,Yes,65%
+pratick.bhattacharjee@mba.christuniversity.in,Pratick,MBA,Male,85% - 89%,4,18,2-Fair,2,None,3,Yes,55%
+nishi.singh@msds.christuniversity.in,Nishi Singh,Msc Data Science,Female,85% - 89%,4,0,3-Good,5,Some,4,No,45%
+indu.pv@msea.christuniversity.in,Indu pv,MSC EA,Female,90% - 94%,2,10,5.N/A(For first semester students),4,Some,4,No,55%
+lisa.joyson@mba.christuniversity.in,Lisa Joyson,MBA,Female,90% - 94%,5,19,5.N/A(For first semester students),1,Some,4,No,65%
+shahanaz.shaik@law.christuniversity.in,Shahanaz Shaik,BA LLB,Female,85% - 89%,2,20,3-Good,1,Some,3,,85%
+adarsh.kandlakunta@ecoa.christuniversity.in,Adarsh Joseph,BSC EA,Male,95% - 100%,4,19,2-Fair,2,Many,1,No,65%
+priyanshu.kumar@ecoa.christuniversity.in,Priyanshu Kumar,BSC EA,Male,80% - 84%,1,3,1-Poor,2,Some,4,No,75%
+Ronald.siby@mba.christuniversity.in,Ronald siby,MBA,Male,95% - 100%,1,18,5.N/A(For first semester students),3,Some,4,No,65%
+abhishek.nag@bds.christuniversity.in,Abhishek Nag,BSC DS,Male,95% - 100%,5,16,3-Good,3,Some,3,No,75%
+sanjana.sengar@msds.christuniversity.in,Sanjana Sengar,Msc Data Science,Female,95% - 100%,3,8,1-Poor,2,Some,2,Yes,55%
+shambhawi.sinha@law.christuniversity.in,Shambhawi Sinha,BBA LLB,Female,95% - 100%,2,9,5.N/A(For first semester students),3,Many,3,No,75%
+kritika.naik@ecoa.christuniversity.in,Kritika,BSC EA,Female,95% - 100%,2,14,5.N/A(For first semester students),4,Some,4,Yes,65%
+anirudh.nair@ecoa.christuniversity.in,Anirudh Nair,BSC EA,Male,80% - 84%,3,12,5.N/A(For first semester students),1,Some,5,No,75%
+cj.lakshmy@msea.christuniversity.in,C J Lakshmy,MSC EA,Female,95% - 100%,1,NO,5.N/A(For first semester students),5,Many,4,No,55%
+aishwarya.sekhar@law.christuniversity.in,Aishwarya Sekhar R,BBA LLB,Female,90% - 94%,4,19,3-Good,2,Some,3,Yes,75%
+saurabh.nair@bba.christuniversity.in,Saurabh Nair,BBA,Male,85% - 89%,1,16,5.N/A(For first semester students),5,Many,3,No,55%
+arnav.mishra@law.christuniversity.in,Arnav Mishra,BBA LLB,Male,95% - 100%,3,0,2-Fair,2,Some,1,No,75%
+sanandita.maji@msds.christuniversity.in,Sanandita Maji,Msc Data Science,Female,80% - 84%,3,20,5.N/A(For first semester students),5,Some,2,No,75%
+Rahul.gulwani@law.christuniversity.in,Rahul Gulwani,BA LLB,Male,95% - 100%,2,9,5.N/A(For first semester students),2,Some,1,No,75%
+nandini.baid@law.christuniversity.in,Nandini Baid,BBA LLB,Female,76% - 79%,1,9,4-Excellent,4,None,5,No,75%
+patha.harishkumar@msds.christuniversity.in,Patha Harish Kumar,Msc Data Science,Male,90% - 94%,3,8,1-Poor,2,Some,2,Yes,65%
+bhoomi.kumar@law.christuniversity.in,Bhoomi Kumar,BBA LLB,Female,90% - 94%,4,19,3-Good,5,Many,2,No,75%
+sampadha.varanasi@msea.christuniversity.in,Sampadha Varanasi,Msc Data Science,Female,95% - 100%,5,13,3-Good,3,Some,4,No,75%
+nizamudeen.h@law.christuniversity.in,Nizamudeen H,BA LLB,Male,95% - 100%,3,2,5.N/A(For first semester students),2,Some,1,No,55%
+sankar.murugan@msds.christuniversity.in,Sankar Murugan,Msc Data Science,Male,80% - 84%,3,3,2-Fair,1,Some,4,Yes,85%
+nava.yauvan@law.christuniversity.in,Nava Yauvan,BBA LLB,Male,95% - 100%,5,16,5.N/A(For first semester students),3,Some,4,Yes,75%
+rakshanda.dhote@bba.christuniversity.in,Rakshanda Dhote,BBA,Female,95% - 100%,2,5,5.N/A(For first semester students),4,Some,5,No,75%
+desmin.george@bbabah.christuniversity.in,DESMIN GEORGE,BBA,Male,90% - 94%,4,20,4-Excellent,1,Some,3,No,65%
+Aditisingh@law.christuniversity.in,Aditi singh,BBA LLB,Female,95% - 100%,3,11,1-Poor,4,Some,1,Yes,65%
+manyagupta@law.christuniversity.in,Manya Gupta,BA LLB,Female,95% - 100%,3,2,3-Good,2,Some,2,Yes,55%
+priyal.gaur@law.christuniversity.in,Priyal Gaur,BA LLB,Female,95% - 100%,1,12,3-Good,1,Many,5,No,65%
+rishav.samanta@ecoa.christuniversity.in,Rishav Samanta,BSC EA,Male,90% - 94%,3,11,5.N/A(For first semester students),3,None,4,No,85%
+yash.singh@ecoa.christuniversity.in,yash vardhan singh,BSC EA,Male,85% - 89%,1,11,2-Fair,1,None,4,No,65%
+vijay.manklesh@ecoa.christuniversity.in,Vijay Manklesh,BSC EA,Male,85% - 89%,1,15,5.N/A(For first semester students),5,Some,2,No,75%
+tamanna.saini@ecoa.christuniversity.in,Tamanna Saini,BSC EA,Female,90% - 94%,1,NO,5.N/A(For first semester students),1,Some,2,Yes,65%
+divyank.yadav@msea.christuniversity.in,Divyank Kumar Yadav,MSC EA,Male,90% - 94%,5,5,4-Excellent,1,Some,4,Yes,75%
+suvadeep.chakraborty@msgfa.christuniversity.in,Suvadeep Chakraborty,MSc GF&A,Male,85% - 89%,5,5,5.N/A(For first semester students),2,Some,2,No,55%
+john.thattil@msds.christuniversity.in,John George Thattil,Msc Data Science,Male,95% - 100%,2,9,3-Good,2,Many,3,No,75%
+aryan.manchanda@bbabah.christuniversity.in,Aryan Manchanda,BBA,Male,90% - 94%,2,20,4-Excellent,1,Some,3,Yes,65%
+hitanshi.gupta@msds.christuniversity.in,Hitanshi Gupta,Msc Data Science,Female,85% - 89%,2,19,3-Good,5,Some,2,Yes,75%
+ravisha.seth@law.christuniversity.in,Ravisha Seth,BA LLB,Female,85% - 89%,4,15,3-Good,2,Some,4,No,55%
+juhi.rathore@bsceah.christuniversity.in,Juhi Rathore,BSC EA,Female,90% - 94%,1,15,3-Good,4,Some,5,No,75%
+Mahi.shrivastava@bbabah.christuniversity,Mahi Shrivastava,BBA,Female,76% - 79%,1,4,5.N/A(For first semester students),3,Many,3,No,55%
+chaitanya.birla@ecoa.christuniversity.in,Chaitanya Birla,BSC EA,Female,80% - 84%,2,17,5.N/A(For first semester students),5,Some,3,,75%
+aarsh.dwivedi@law.christuniversity.in,Aarsh Dwivedi,BA LLB,Male,95% - 100%,5,12,2-Fair,4,Some,4,No,75%
+debolina.chatterjee@msds.christuniversity.in,Debolina Chatterjee,Msc Data Science,Female,80% - 84%,3,10,3-Good,3,Many,5,No,75%
+jeebak.basak@bds.christuniversity.in,Jeebak,BSC DS,Male,95% - 100%,5,0,5.N/A(For first semester students),1,Some,5,No,75%
+mehuli.dutta@bsceah.christuniversity.in,Mehuli Dutta,BSC EA,Female,85% - 89%,5,9,5.N/A(For first semester students),3,Many,3,No,65%
+shubham.jha@law.christuniversity.in,Shubham Jha,BA LLB,Male,95% - 100%,3,2,3-Good,5,Some,4,Yes,75%
+digangana.chanda@maedh.christuniversity.in,Digangana Chanda,MA ENGLISH,Female,90% - 94%,2,20,4-Excellent,4,Some,3,No,75%
+arshika.saraswat@msds.christuniversity.in,Arshika Saraswat,Msc Data Science,Female,85% - 89%,3,6,3-Good,4,Some,1,Yes,55%
+shruti.mishra@bsceah.christuniversity.in,Shruti Mishra,BSC EA,Female,85% - 89%,2,9,3-Good,4,Some,4,No,85%
+suryansh.srivastava@law.christuniversity.in,Suryansh Srivastava,BA LLB,Male,90% - 94%,2,10,3-Good,3,Some,5,No,75%
+ansh.tripathi@law.christuniversity.in,Ansh 6,BA LLB,Male,80% - 84%,3,2,5.N/A(For first semester students),3,Many,3,Yes,75%
+siddhartha.sinha@msds.christuniversity.in,Siddhartha Sinha,Msc Data Science,Male,95% - 100%,5,20,5.N/A(For first semester students),2,Some,3,No,65%
+stuty.das@msds.christuniversity.in,Stuty Das,Msc Data Science,Female,95% - 100%,4,19,2-Fair,1,Some,3,No,65%
+nilanjana.dey@msds.christuniversity.in,Nilanjana Dey,Msc Data Science,Female,95% - 100%,3,7,3-Good,3,None,3,No,55%
+rose.rajan@ecoa.christuniversity.in,Rose,BSC EA,Female,80% - 84%,2,6,5.N/A(For first semester students),4,Some,2,No,45%
+sejal.s@bds.christuniversity.in,Sejal,BSC DS,Female,95% - 100%,3,10,5.N/A(For first semester students),2,Some,1,No,75%
+anand.dubey@msds.christuniversity.in,Anand kumar dubey,Msc Data Science,Male,80% - 84%,1,8,3-Good,3,Some,2,Yes,65%
+Vedant.nehal@msds.chriatuniveraity.in,Vedant Nehal,Msc Data Science,Male,95% - 100%,3,10,2-Fair,2,Many,1,No,75%
+trikalagga.saha@msds.christuniversity.in,Trikalagga Saha,Msc Data Science,Female,90% - 94%,1,13,1-Poor,1,Some,5,No,65%
+urvi.saran@bsceah.christuniversity.in,Urvi Saran,BSC EA,Female,85% - 89%,3,13,5.N/A(For first semester students),5,None,1,Yes,75%
+pooshan.chatterjee@msds.christuniversity.in,Pooshan Chatterjee,Msc Data Science,Male,80% - 84%,1,16,3-Good,3,Some,3,No,75%
+aadith.mathew@msds.christuniversity.in,Aadith Joseph Mathew,Msc Data Science,Male,95% - 100%,5,14,1-Poor,4,Some,2,Yes,75%
+ritikesh.shinde@law.christuniversity.in,Ritikesh shinde,BBA LLB,Male,76% - 79%,5,19,5.N/A(For first semester students),4,Some,2,Yes,75%
+asmita.amritraj@ecoa.christuniversity.in,Asmita Amritraj,BSC EA,Female,80% - 84%,5,17,5.N/A(For first semester students),4,None,1,Yes,65%
+tank.akash@msds.christuniversity.in,Tank Akash Rameshbhai,Msc Data Science,Male,80% - 84%,4,1,5.N/A(For first semester students),3,Some,1,No,75%
+abhidev.sp@msds.christuniversity.in,Abhidev SP,Msc Data Science,Male,95% - 100%,3,11,5.N/A(For first semester students),1,Many,2,Yes,65%
+Avinash.rutvik@bsceah.christuniversity.in,Avinash,BSC EA,Male,76% - 79%,1,5,3-Good,3,Some,3,Yes,85%
+debdatta.nanda@bba.christuniversity.in,Debdatta Nanda,BBA,Female,90% - 94%,1,2,5.N/A(For first semester students),5,Some,1,No,85%
+anushka.chakraborty@bba.christuniversity.in,Anushka Chakraborty,BBA,Female,85% - 89%,3,12,5.N/A(For first semester students),4,Some,2,No,55%
+aditi.wani@msea.christuniversity.in,Aditi Deepak Wani,MSC EA,Female,85% - 89%,1,8,3-Good,4,Some,2,No,65%
+bindu.lingamaneni@msea.christuniversity.in,Bindu Lingamaneni,Msc Data Science,Female,80% - 84%,4,8,4-Excellent,4,Some,5,Yes,65%
+yati.vinayaka@bba.christuniversity.in,Yati Vinayaka,BBA,Male,95% - 100%,1,16,3-Good,5,Some,5,Yes,65%
+kotagiri.akash@bba.christuniversity.in,Akash Kotagiri,BBA,Male,76% - 79%,2,19,3-Good,3,Some,4,No,75%
+harshavardhan.kari@bba.christuniversity.in,Harshavardhan Kari,BBA,Male,90% - 94%,3,1,3-Good,1,Some,1,Yes,55%
+satya.budithi@bba.christuniversity.in,Satya Tej Budithi,BBA,Male,85% - 89%,3,10,5.N/A(For first semester students),2,Many,1,Yes,65%
+portia.lakhani@bba.christuniversity.in,Portia Lakhani,BBA,Female,95% - 100%,5,5,5.N/A(For first semester students),2,Some,5,No,85%
+kushmeet.kaur@bba.christiniversity.in,Kushmeet Kaur,BBA,Female,90% - 94%,1,2,2-Fair,1,Some,4,Yes,65%
+muskan.manvi@bba.christuniversity.in,Muskan Manvi,BBA,Female,85% - 89%,1,17,3-Good,4,Some,1,No,75%
+Padmanabuni.nithin@bba.christuniversity.in,Padmanabuni nithin,BBA,Male,95% - 100%,5,19,5.N/A(For first semester students),2,None,5,Yes,65%
+sonaliya.sunny@law.christuniversity.in,Sonaliya K Sunny,BA LLB,Female,90% - 94%,4,17,5.N/A(For first semester students),1,Some,5,Yes,75%
+pavan.anisetti@bba.christuniversity.in,Pavan kumar,BBA,Male,85% - 89%,4,9,3-Good,2,Many,1,No,55%
+gvs.reddy@bba.christuniversity.in,GVS Prabhas Reddy,BBA,Male,85% - 89%,2,6,2-Fair,2,Some,4,No,75%
+Kandepu.vaibhav@bba.christuniversity.in,Kundan Vaibhav,BBA,Male,90% - 94%,1,17,1-Poor,5,Some,5,Yes,65%
+mohammad.azeem@mba.christuniversity.in,Mohammad Azeem Savadatti,MBA,Male,80% - 84%,2,18,5.N/A(For first semester students),2,Some,5,Yes,75%
+u.sushit@mba.christuniversity.in,U B Sushit,MBA,Male,95% - 100%,5,20,3-Good,1,Some,1,No,55%
+shubhamkoolwal8@gmail.com,Shubham koolwal,BBA,Male,95% - 100%,5,4,1-Poor,3,Some,4,No,75%
+kunal.baid@bba.christuniversity.in,Kunal Baid,BBA,Male,95% - 100%,2,18,5.N/A(For first semester students),4,Some,4,No,55%
+simon.lakshan@law.christuniversity.in,Simon Lakshan A,BBA LLB,Male,95% - 100%,5,NO,5.N/A(For first semester students),1,Some,5,No,75%
+urvininad.shah@bba.christuniversity.in,Urvi Shah,BBA,Female,80% - 84%,5,17,5.N/A(For first semester students),3,Some,4,Yes,75%
+awnishsinghadi0999@gmail.com,Awnish singh,BA LLB,Male,95% - 100%,4,13,5.N/A(For first semester students),5,Many,1,Yes,75%
+surbhi.kumari@law.christuniversity.in,Surbhi Kumari,BA LLB,Female,85% - 89%,2,14,3-Good,4,None,4,No,75%
+parul.sharma@msds.christuniversity.in,Parul Sharma,Msc Data Science,Female,95% - 100%,4,14,5.N/A(For first semester students),5,None,5,No,65%
+saaransh.dhalwani@msgfa.christuniversity.in,Saaransh,MSc GF&A,Male,80% - 84%,2,3,2-Fair,2,Some,5,Yes,75%
+hari.haran@bbabah.christuniversity.in,Hari Haran,BBA,Male,80% - 84%,5,19,5.N/A(For first semester students),4,Some,3,Yes,75%
+ronit.prasad@bba.christuniversity.in,Ronit Prasad,BBA,Male,95% - 100%,2,13,5.N/A(For first semester students),4,Some,1,No,55%
+kareena.mathew@maedh.christuniversity.in,Kareena,MA ENGLISH,Female,90% - 94%,2,17,4-Excellent,1,Some,5,No,85%
+vaishnavi.rastogi@law.christuniversity.in,VAISHNAVI,BA LLB,Female,85% - 89%,3,11,1-Poor,2,Many,3,No,75%
+pratham.arora@law.christuniversity.in,Pratham Arora,BBA LLB,Male,95% - 100%,1,20,5.N/A(For first semester students),1,Some,2,No,75%
+manish.kumar@msds.christuniversity.in,Manish Kumar,Msc Data Science,Male,95% - 100%,3,19,3-Good,5,Some,5,Yes,65%
+Prajwal.singh@msds.Christuniversity.in,Prajwal Singh,Msc Data Science,Male,85% - 89%,1,15,4-Excellent,1,Some,3,Yes,65%
+v.sravani@msds.christuniversity.in,V.Sravani,Msc Data Science,Female,85% - 89%,4,10,3-Good,4,Some,4,No,55%
+george.thomas@msds. christuniversity.in,george thomas,Msc Data Science,Male,80% - 84%,2,16,3-Good,1,Many,2,No,55%
+suruchi.c@mba.christuniversity.in,Suruchi,MBA,Female,95% - 100%,4,18,3-Good,4,Some,2,Yes,65%
+adrija.saha@law.christuniversity.in,Adrija Saha,BA LLB,Female,76% - 79%,1,19,5.N/A(For first semester students),3,Some,3,Yes,85%
+sravan.chandra@law.christuniversity.in,Sravan,BA LLB,Male,90% - 94%,1,18,5.N/A(For first semester students),3,Many,5,No,65%
+jones.joseph@mba.christuniversity.in,Jones,MBA,Male,85% - 89%,4,3,2-Fair,5,Some,1,No,75%
+amit.raj@law.christuniversity.in,Amit Raj,BA LLB,Male,85% - 89%,4,11,3-Good,2,Many,4,No,65%
+joice.mathew@msea.christuniversity.in,Joice Ann Mathew,MSC EA,Female,90% - 94%,4,2,5.N/A(For first semester students),3,Some,4,,75%
+trisha.banra@bba.christuniversity.in,Trisha banra,BBA,Female,80% - 84%,4,9,5.N/A(For first semester students),5,Some,2,No,55%
+dixit.ishita@bba.christuniversity.in,Ishita Dixit,BBA,Female,95% - 100%,3,13,3-Good,3,Some,1,No,55%
+gauthami.n@msea.christuniversity.in,Gauthami Nagesh Pullipati,MSC EA,Female,80% - 84%,3,14,2-Fair,5,Some,4,No,65%
+vinutha.a@msds.christuniversity.in,VINUTHA,Msc Data Science,Female,95% - 100%,4,16,1-Poor,3,Some,3,No,85%
+aman.singh@msds.christuniversity.in,Aman Singh,Msc Data Science,Male,95% - 100%,1,7,5.N/A(For first semester students),3,Many,1,Yes,65%
+nikhil.pr@msds.christuniversity.in,Nikhil,Msc Data Science,Male,95% - 100%,3,19,3-Good,2,Some,3,No,75%
+anurag.yadav@msds.christuniversity.in,Anurag yadav,Msc Data Science,Male,90% - 94%,3,4,1-Poor,4,Some,5,Yes,65%
+manit.gupta@bbabah.christuniversity.in,Manit gupta,BBA,Male,85% - 89%,2,0,5.N/A(For first semester students),1,Some,4,No,75%
+sneha.singh@bbabah.christuniversity.in,Sneha Singh,BBA,Female,95% - 100%,2,2,5.N/A(For first semester students),5,Some,1,No,55%
+manjot.bhatia@bbabah.christuniversity.in,Manjot Singh Bhatia,BBA,Male,90% - 94%,3,9,5.N/A(For first semester students),2,None,4,Yes,75%
+jatin.p@bbabah.christuniversity.in,Jatin,BBA,Male,90% - 94%,3,6,5.N/A(For first semester students),1,Some,2,No,65%
+alysha.ghosh@bbabah.christuniversity.in,Alysha Ghosh,BBA,Female,95% - 100%,1,20,5.N/A(For first semester students),5,Many,3,No,75%
+Talasani. Chetan@bbabah.christuniversity.in,T chetan reddy,BBA,Male,95% - 100%,3,18,3-Good,3,Some,2,No,55%
+taryn.moosa@bbabah.christuniversity.in,Taryn Moosa,BBA,Female,80% - 84%,2,11,4-Excellent,5,Some,5,No,75%
+pedapudi.netaji@bba.christuniversity.in,Netaji Pedapudi,BBA,Male,95% - 100%,2,16,3-Good,2,Some,4,No,55%
+chitturi.hari@bbabah.christuniversity.in,Chitturi Hari Naga Manikanta,BBA,Male,95% - 100%,3,6,3-Good,4,Some,2,Yes,75%
+lakshya.khatri@bbabah.christuniversity.in,Lakshya khatri,BBA,Male,90% - 94%,3,16,3-Good,4,Some,3,No,75%
+manya.khanna@bbabah.christuniversity.in,Manya Khanna,BBA,Female,90% - 94%,2,10,5.N/A(For first semester students),2,Some,3,No,75%
+ishika.bhasin@bbabah.christuniversity.in,ishika bhasin,BBA,Female,85% - 89%,1,1,5.N/A(For first semester students),3,Some,3,Yes,75%
+rueben.dsouza@bbabah.christuniversity.in,Rueben Dsouza,BBA,Male,85% - 89%,5,4,2-Fair,3,Some,5,No,65%
+madhura.laghane@bba.christuniversity.in,Madhura Laghane,BBA,Female,90% - 94%,2,20,3-Good,3,Many,3,Yes,75%
+ch.vishnupriya@BBA.CHRISTUNIVERSITY.IN,ch.vishnupriya,BBA,Female,90% - 94%,4,1,5.N/A(For first semester students),5,None,1,Yes,75%
+kaustubh.pande@bbabah.christuniversity.in,Kaustubh Pande,BBA,Male,85% - 89%,1,10,5.N/A(For first semester students),1,None,1,Yes,55%
+Danish.khan@science.christuniversity.in,Danish khan,BSC DS,Male,95% - 100%,2,9,3-Good,1,Some,4,No,85%
+Allu.yogith@bba.christuniversity.in,Allu Yogith,BBA,Male,90% - 94%,4,14,2-Fair,4,Some,3,Yes,75%
+pasula.adarsh@bbabah.christuniversity.in,ADARSH reddy,BBA,Male,85% - 89%,3,15,1-Poor,2,Some,4,Yes,75%
+Pavanrama456@gmail.com,Satti pavan rama krishna reddy,BBA,Male,85% - 89%,4,19,5.N/A(For first semester students),3,Some,2,No,65%
+siddarth.hegde@law.christuniversity.in,Siddarth,BA LLB,Male,90% - 94%,4,13,3-Good,1,Many,4,No,65%
+drishti.gupta@law.christuniversity.in,Drishti Gupta,BA LLB,Female,76% - 79%,4,18,1-Poor,2,Some,5,No,55%
+abhigyan.pal@bba.christuniversity.in,Abhigyan Pal,BBA,Male,90% - 94%,4,10,5.N/A(For first semester students),2,Some,2,Yes,45%
+shreeya.shukla@law.christuniversity.in,Shreeya Shukla,BA LLB,Female,90% - 94%,4,18,5.N/A(For first semester students),3,Some,3,Yes,75%
+shraddha.rawat@law.christuniversity.in,Shraddha Rawat,BA LLB,Female,95% - 100%,4,5,5.N/A(For first semester students),1,Some,2,No,65%
+ruptaheen.kramsapi@bba.christuniversity.in,Ruptaheen Kramsapi,BBA,Female,95% - 100%,5,2,5.N/A(For first semester students),2,Many,1,Yes,75%
+Shruti.p@bba.christuniversity.in,Shruti p,BBA,Female,80% - 84%,3,8,3-Good,4,Some,5,Yes,65%
+ga.pranavsankar@bba.christuniversity.in,G.A.PRANAVSANKAR,BBA,Male,95% - 100%,3,19,5.N/A(For first semester students),1,Some,2,No,75%
+ujjawal.ahuja@law.christuniversity.in,Ujjawal ahuja,BBA LLB,Male,95% - 100%,1,16,2-Fair,4,Many,3,Yes,75%
+sarnalika.paul@msds.christuniversity.in,SARNALIKA PAUL,Msc Data Science,Female,90% - 94%,1,3,5.N/A(For first semester students),2,Some,2,No,75%
+abin.roy@msds.christuniversity.in,Abin Roy,Msc Data Science,Male,76% - 79%,3,17,5.N/A(For first semester students),3,Many,3,Yes,75%
+souvik.chowdhury@msds.christuniversity.in,Souvik,Msc Data Science,Male,90% - 94%,1,8,4-Excellent,3,Some,4,Yes,65%
+dewanshi.rana@law.christunivetsity.in,Dewanshi Rana,BA LLB,Female,90% - 94%,3,9,1-Poor,5,Some,1,No,75%
+hiranlal.h@science.christuniversity.in,Hiranlal H,Msc Data Science,Male,95% - 100%,4,20,3-Good,4,Some,5,No,65%
+yeswanth.pg@msds.christuniversity.in,Yeswanth P G,Msc Data Science,Male,95% - 100%,1,19,5.N/A(For first semester students),3,None,4,Yes,85%
+gokul.manoj@msds.christuniversity.in,Gokul Manoj,Msc Data Science,Male,80% - 84%,1,10,3-Good,4,Some,5,Yes,55%
+priyanshu.singh@bbabah.christuniversity.in,Priyanshu kumar singh,BBA,Male,95% - 100%,5,1,4-Excellent,4,Many,3,No,65%
+diksha.v@mba.christuniversity.in,Diksha,MBA,Female,95% - 100%,3,5,3-Good,5,Some,1,No,85%
+swastik.roy@msds.christuniversity.in,Swastik Roy,Msc Data Science,Male,90% - 94%,2,7,5.N/A(For first semester students),4,Some,2,No,65%
+debamala.adhikari@msds.christuniversity.in,Debamala,Msc Data Science,Female,95% - 100%,2,8,3-Good,4,Some,1,,75%
+anushya.francisca@msds.christuniversity.in,Anushya Francisca E.P,Msc Data Science,Female,95% - 100%,2,17,4-Excellent,3,Some,3,No,65%
+shubham.kumar@msds.christuniversity.in,Shubham Kumar,Msc Data Science,Male,95% - 100%,3,16,3-Good,4,Some,5,No,75%
+sudeshna.ghosh@msds.christuniversity.in,Sudeshna Ghosh,Msc Data Science,Female,95% - 100%,1,12,3-Good,2,Some,4,No,55%
+selina.lana@msds.Christ university.in,Selina Lana,Msc Data Science,Female,90% - 94%,3,6,3-Good,4,Some,5,No,75%
+devika.vinod@msds.christuniversity.in,Devika S Vinod,Msc Data Science,Female,85% - 89%,1,14,5.N/A(For first semester students),1,Some,1,Yes,65%
+siddharth.nautiyal@msds.christuniversity.in,Siddharth Nautiyal,Msc Data Science,Male,95% - 100%,5,12,5.N/A(For first semester students),3,Many,3,No,75%
+gungun.agnihotri@msds.christuniversity.in,Gungun,Msc Data Science,Female,90% - 94%,4,15,2-Fair,5,None,4,Yes,55%
+tanuja.gupta@msds.christuniversity.in,Tanuja Gupta,Msc Data Science,Female,90% - 94%,3,17,3-Good,2,None,1,No,75%
+naveen.krishna@msds.christuniversity.in,Naveen krishna,Msc Data Science,Male,95% - 100%,4,10,5.N/A(For first semester students),2,Some,1,No,55%
+mubashir.salim@msds.christuniversity.in,Mubashir Salim,Msc Data Science,Male,95% - 100%,4,16,5.N/A(For first semester students),3,Some,2,Yes,75%
+suraj.mishra@msds.christuniversity.in,Suraj Mishra,Msc Data Science,Male,80% - 84%,3,10,3-Good,2,Some,5,No,75%
+ujan.galui@science.christuniversity.in,Ujan Galui,Msc Data Science,Male,95% - 100%,2,8,2-Fair,2,Some,5,No,75%
+vikash.shakya@msds.christuniversity.in,vikash shakya,Msc Data Science,Male,95% - 100%,5,6,1-Poor,1,Many,2,No,75%
+thumar.dhruvil@msds.christuniversity.in,dhruvil patel,Msc Data Science,Male,90% - 94%,2,1,5.N/A(For first semester students),3,Some,2,No,65%
+harini.sruthi@msds.christuniversity.in,Harini Sruthi T S,Msc Data Science,Female,76% - 79%,2,3,3-Good,4,Some,1,No,75%
+ubale.mayuri@msds.christuniversity.in,Mayuri Ubale,Msc Data Science,Female,90% - 94%,2,1,1-Poor,1,Some,3,Yes,75%
+thamizhanbu.e@msds.christuniversity.in,Thamizhanbu E,Msc Data Science,Male,85% - 89%,1,12,5.N/A(For first semester students),2,Some,1,No,55%
+ardra.ks@msds.christuniversity.in,Ardra K S,Msc Data Science,Female,85% - 89%,4,13,3-Good,3,Many,1,No,85%
+chirag.n@msds.christuniversity.in,Chirag N,Msc Data Science,Male,90% - 94%,3,0,4-Excellent,2,Some,1,Yes,75%
+Mohammed.Rayan@msds.christuniversity.in,Mohammed Rayan,Msc Data Science,Male,90% - 94%,1,8,3-Good,4,Some,5,No,75%
+Vivette.marykurbah@law.christuniversity.in,Vivette,BA LLB,Female,85% - 89%,4,20,3-Good,3,Many,4,Yes,65%
+aditya.singh@msgfa.christuniversity.in,Aditya Singh,MSc GF&A,Male,80% - 84%,4,1,3-Good,2,Some,3,Yes,65%
+pronoy.khanra@msgfa.christuniversity.in,Pronoy khanra,MSc GF&A,Male,95% - 100%,5,8,5.N/A(For first semester students),1,Many,3,Yes,55%
+tushar.kumar@bbabah.christuniversity.in,Tushar Kumar,BBA,Male,76% - 79%,1,13,5.N/A(For first semester students),1,Some,2,No,45%
+shantanu.venkatesh@bbabah.christuniversity.in,Shantanu Ambaty,BBA,Male,80% - 84%,5,14,2-Fair,5,Some,5,Yes,75%
+vatsal.sharma@bbabah.christuniversity.in,Vatsal Sharma,BBA,Male,95% - 100%,4,17,3-Good,3,Some,1,Yes,65%
+pariska.nagvenkar@bbabah.christuniversity.in,Pariska Nagvenkar,BBA,Female,90% - 94%,4,20,5.N/A(For first semester students),5,Some,5,No,75%
+arjun.malik@bbabah.christuniversity.in,Arjun Malik,BBA,Male,85% - 89%,3,16,5.N/A(For first semester students),2,Some,2,No,65%
+nityank.singhal@law.christuniversity.in,Nityank singhal,BA LLB,Male,95% - 100%,3,20,3-Good,3,Many,4,No,75%
+karan.patil@bbabah.christuniversity.in,Karan Patil,BBA,Male,80% - 84%,3,5,2-Fair,1,Some,2,Yes,75%
+karre.vinati@law.christuniversity.in,Karre Sri Vinati,BA LLB,Female,95% - 100%,5,16,1-Poor,1,Some,1,Yes,75%
+vaishnovi.pawar@law.christuniversity.in,Vaishnovi S Pawar,BA LLB,Female,76% - 79%,5,17,5.N/A(For first semester students),1,Some,4,No,75%
+darvesh.bansal@msds.christuniversity.in,DARVESH BANSAL,Msc Data Science,Male,90% - 94%,2,17,3-Good,5,Some,3,Yes,65%
+nithish.kumar@law.christuniversity.in,Nithish kumar G,BA LLB,Male,90% - 94%,2,8,1-Poor,1,Some,1,Yes,75%
+ananya.geetey@ecoa.christuniversity.in,Ananya Geetey,BSC EA,Female,95% - 100%,5,17,5.N/A(For first semester students),4,None,2,No,65%
+rhea.rhine@law.christuniversity.in,Rhea Eleanor Rhine,BA LLB,Female,95% - 100%,2,9,5.N/A(For first semester students),5,Some,2,Yes,85%
+lokesh.patil@bbabah.christuniversity.in,Lokesh Rajendra Patil,BBA,Male,80% - 84%,3,3,5.N/A(For first semester students),3,Many,3,No,85%
+nakshatra.kannake@bbabah.christuniversity.in,Nakshatra kannake,BBA,Female,95% - 100%,2,14,3-Good,2,Some,4,Yes,55%
+huzaifalji63@gmail.com,Huzaif Alji,MSc GF&A,Male,95% - 100%,1,20,4-Excellent,5,Some,2,Yes,65%
+rachel.ann@bbabah.christuniversity.in,Rachel,BBA,Female,90% - 94%,1,2,3-Good,5,Some,1,No,55%
+shilpi.singh@bbabah.christuniversity.in,Shilpi Singh,BBA,Female,85% - 89%,3,16,3-Good,5,Some,5,No,65%
+vatsal.vyas@law.christuniversity.in,Vatsal vyas,BBA LLB,Male,95% - 100%,4,8,3-Good,1,Some,3,Yes,85%
+romi.rathaur@law.christuniversity.in,Romi Rathaur,BA LLB,Female,90% - 94%,5,18,5.N/A(For first semester students),2,Some,3,Yes,65%
+ashish.sagam@bbabah.christuniversity.in,Ashish Sagam,BBA,Male,90% - 94%,5,1,5.N/A(For first semester students),1,Some,2,No,75%
+om.kumar@bbabah.christuniversity.in,Om kumar,BBA,Male,95% - 100%,4,17,2-Fair,1,Some,5,Yes,65%
+aadya.kapoor@law.christuniversity.in,Aadya Kapoor,BA LLB,Female,95% - 100%,4,0,3-Good,3,Many,4,Yes,75%
+kashish.dhan@bbabah.christuniversity.in,Kashish Dhan,BBA,Male,80% - 84%,5,4,5.N/A(For first semester students),5,None,2,No,55%
+kartik.mathur@law.christuniversity.in,Kartik Mathur,BA LLB,Male,95% - 100%,5,10,5.N/A(For first semester students),5,None,2,No,75%
+siddhant.pathak@law.christuniversity.in,Siddhant Pathak,BBA LLB,Male,95% - 100%,1,3,3-Good,1,Some,3,Yes,65%
+tanmay.srivastava@law.christuniversity.in,Tanmay Srivastava,BA LLB,Male,90% - 94%,3,20,2-Fair,2,Some,4,Yes,75%
+ankit.nair@law.christuniversity.in,Ankit S Nair,BBA LLB,Male,95% - 100%,1,15,1-Poor,4,Some,5,No,55%
+aditimishra@law.christuniversity.in,Aditi Mishra,BA LLB,Female,95% - 100%,3,20,5.N/A(For first semester students),2,Some,5,No,75%
+Kadari.giri@christuniversity.in,Kadari Giri,MBA,Male,90% - 94%,1,3,3-Good,2,Many,5,No,55%
+harivarshan.m@law.christuniversity.in,Harivarshan M,BA LLB,Male,90% - 94%,5,6,1-Poor,4,Some,3,,75%
+theresa.joseph@law.christuniversity.in,Theresa Ann Joseph,BBA LLB,Female,95% - 100%,1,17,5.N/A(For first semester students),3,Some,5,No,75%
+giridar.rc@bba.christuniversity.in,Giridar R C,BBA,Male,95% - 100%,3,13,5.N/A(For first semester students),4,Some,4,No,75%
+sree.yuvan@law.christuniversity.in,Sree yuvan S,BA LLB,Male,80% - 84%,5,1,3-Good,1,Some,5,No,75%
+abhijna.gopalpur@mba.christuniversity.in,Abhijna Gopalpur,MBA,Female,95% - 100%,3,2,4-Excellent,4,Many,1,No,65%
+mishthi.sharma@law.christuniversity.in,Mishthi Sharma,BA LLB,Female,95% - 100%,5,17,3-Good,5,Some,2,Yes,75%
+Jeny.george@lavasa.christuniversity.in,Jeny Sara George,BA LLB,Female,90% - 94%,2,13,3-Good,5,Some,4,No,75%
+austin.anthony@mba.christuniversity.in,Austin,MBA,Male,90% - 94%,1,1,3-Good,1,Many,4,Yes,55%
+sakshi.mamgain@mba.christuniversity.in,Sakshi,MBA,Female,85% - 89%,2,19,5.N/A(For first semester students),2,Some,1,No,85%
+diasha.chowdhury@mba.christuniversity.in,Diasha,MBA,Female,95% - 100%,3,6,5.N/A(For first semester students),1,Many,3,No,75%
+mohammad.azeem@mba.christuniversity.in,Mohammad,MBA,Male,90% - 94%,2,9,2-Fair,4,Some,3,Yes,75%
+shristi.shankholia@law.christuniversity.in,Shristi Shankholia,BA LLB,Female,85% - 89%,2,20,3-Good,2,Some,2,No,65%
+rohit.nair@mba.christuniversity.in,Rohit,MBA,Male,85% - 89%,5,12,5.N/A(For first semester students),4,Some,5,No,65%
+mebin.biju@mba.christuniversity.in,Mebin,MBA,Male,90% - 94%,5,9,5.N/A(For first semester students),2,Some,2,No,55%
+aryan.rajput@mba.christuniversity.in,Aryan,MBA,Male,95% - 100%,1,8,3-Good,2,Some,3,No,45%
+shrijeet.pandey@mab.christuniversity.in,Shrijeet,MBA,Male,95% - 100%,2,14,2-Fair,4,Many,5,No,75%
+giri.kadari@mba.christuniversity.in,Giri,MBA,Male,95% - 100%,2,3,1-Poor,5,Some,1,Yes,65%
+sibi.savio@mba.christuniversity.in,Sibi,MBA,Male,95% - 100%,4,17,5.N/A(For first semester students),3,Some,5,No,75%
+raju.pillai@mba.christuniversity.in,Raju,MBA,Male,80% - 84%,4,10,3-Good,3,None,5,No,65%
+karthika.ranjit@mba.christuniversity.in,Karthika,MBA,Female,95% - 100%,1,13,1-Poor,2,Some,4,Yes,75%
+amala.joseph@mba.christuniversity.in,Joseph,MBA,Male,76% - 79%,1,5,5.N/A(For first semester students),5,Some,4,No,75%
+souradeepta.mazumder@law.christuniversity.in,Souradeepta Mazumder,BA LLB,Female,80% - 84%,5,7,5.N/A(For first semester students),5,Some,2,Yes,75%
+kathryn.philip@law.christuniversity.in,Kathryn Philip,BA LLB,Female,95% - 100%,5,16,5.N/A(For first semester students),3,Many,5,Yes,75%
